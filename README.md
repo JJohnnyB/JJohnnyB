@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJohnnyB
 - 👀 I’m interested in cybersecurity and becoming a junior pentester. Recently I also started learning python.
-- 🌱 I’m currently learning some basic elements of pentesting and preparing for the OSCP certification.
+- 🌱 I’m currently taking the python courses on CodeCademy and preparing for the OSCP certification.
 - 💞️ I’m looking to collaborate on anything :P
 - 📫 How to reach me https://www.linkedin.com/in/jan-brochwicz-360a99204/ 
 
